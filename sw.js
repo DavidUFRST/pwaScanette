@@ -1,5 +1,7 @@
 "use strict";
 
+//https://fdadeau.github.io/scanettePWA/webapp/
+
 /** 
     Source: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers
 */
